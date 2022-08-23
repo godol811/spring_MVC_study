@@ -40,6 +40,8 @@
     <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Spring MVC-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Spring Web Services-2.0.2" level="project" />
+    <orderEntry type="library" name="javax.servlet.jsp.jstl-api-1.2.1" level="project" />
+    <orderEntry type="library" name="Hibernate" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.3.22" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.22" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.22" level="project" />
@@ -55,7 +57,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.8.1" level="project" />
-    <orderEntry type="library" name="javax.servlet.jsp.jstl-api-1.2.1" level="project" />
-    <orderEntry type="library" name="Hibernate" level="project" />
+    <orderEntry type="library" name="Hibernate Validator-5.0.1" level="project" />
   </component>
 </module>
